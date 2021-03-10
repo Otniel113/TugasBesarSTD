@@ -1,2 +1,2 @@
 # TugasBesarSTD
-Proyek membuat Instructor - Course dengan implementasi Multi Linked-List
+Proyek Instructor - Course dengan menggunakan implementasi Multi Linked-List
