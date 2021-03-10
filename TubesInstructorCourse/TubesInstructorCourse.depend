@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1574834159 source:d:\std\tubesinstructorcourse\main.cpp
+	<iostream>
+	"inst_course.h"
+
+1574834102 d:\std\tubesinstructorcourse\inst_course.h
+	<iostream>
+
+1574833755 source:d:\std\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1575025822 source:d:\koding\c++\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1575025552 d:\koding\c++\tubesinstructorcourse\inst_course.h
+	<iostream>
+
+1575025952 source:d:\koding\c++\tubesinstructorcourse\main.cpp
+	<iostream>
+	"inst_course.h"
+
+1575194509 source:c:\users\otniel abiezer\downloads\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1575196811 c:\users\otniel abiezer\downloads\tubesinstructorcourse\inst_course.h
+	<iostream>
+
+1575196811 source:c:\users\otniel abiezer\downloads\tubesinstructorcourse\main.cpp
+	<iostream>
+	"inst_course.h"
+
+1575138420 source:e:\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1575176944 e:\tubesinstructorcourse\inst_course.h
+	<iostream>
+
+1575175677 source:e:\tubesinstructorcourse\main.cpp
+	<iostream>
+	"inst_course.h"
+
+1575196926 source:d:\kuliah online\codingan cpp\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1575196926 d:\kuliah online\codingan cpp\tubesinstructorcourse\inst_course.h
+	<iostream>
+
+1575197024 source:d:\kuliah online\codingan cpp\tubesinstructorcourse\main.cpp
+	<iostream>
+	"inst_course.h"
+
+1615347368 source:d:\kuliah online\kodingan\c++\tubesinstructorcourse\inst_course.cpp
+	"inst_course.h"
+
+1615340095 d:\kuliah online\kodingan\c++\tubesinstructorcourse\inst_course.h
+	<iostream>
+	<stdlib.h>
+
+1615347467 source:d:\kuliah online\kodingan\c++\tubesinstructorcourse\main.cpp
+	"inst_course.h"
+
