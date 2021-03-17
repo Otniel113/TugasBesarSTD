@@ -29,50 +29,81 @@ Selain itu, terdapat juga file .exe yang bisa langsung di-run yaitu di folder /b
 Program langsung memberikan Menu di mana User bisa memasukkan angka untuk memilih fitur apa yang akan dilakukan oleh user lalu menekan Enter. Setelah selesai, jika ingin mengakhir program, maka User dapat memasukkan angka 16. Penjelasan fitur-fitur dari Menu akan dijelaskan di bawah.
 
 ## Fitur-fitur
-1. Print Instructor               : 
+**1. Print Instructor               : ** 
+
 Menampilkan ke layar List berisi Instructor yang ada
 
-2. Print Course                   : 
+
+**2. Print Course                   : **
+
 Menampilkan ke layar List berisi Course yang ada
 
-3. Print Course with Instructor   : 
+
+**3. Print Course with Instructor   : **
+
 Menampilkan seluruh Course dan juga Instructor-instructor yang mengajar pada masing-masing Course
 
-4. Find Instructor                : 
+
+**4. Find Instructor                : **
+
 Mencari Instructor dan menampilkan apa-apa saja Course yang diajarnya
 
-5. Insert First Instructor        : 
+
+**5. Insert First Instructor        : **
+
 Menambahkan Instructor ke dalam List secara Insert-First
 
-6. Insert First Course            : 
+
+**6. Insert First Course            : **
+
 Menambahkan Course ke dalam List secara Insert-First
 
-7. Insert Last Instructor         : 
+
+**7. Insert Last Instructor         : **
+
 Menambahkan Instructor ke dalam List secara Insert-Last
 
-8. Insert Last Course             : 
+
+**8. Insert Last Course             : **
+
 Menambahkan Course ke dalam List secara Insert-Last
 
-9. Insert First Relasi            : 
+
+**9. Insert First Relasi            : **
+
 Menambahkan Relasi antara Instructor ke Course secara Insert-First
 
-10. Delete First Instructor       : 
+
+**10. Delete First Instructor       : **
+
 Menghapus Instructor dari List secara Delete-First
 
-11. Delete First Course           : 
+
+**11. Delete First Course           : **
+
 Menghapus Course dari List secara Delete-First
 
-12. Search Instructor             : 
+
+**12. Search Instructor             : **
+
 Mencari apakah Instructor ada di dalam List
 
-13. Search Course                 : 
+
+**13. Search Course                 : **
+
 Mencari apakah Course ada di dalam List
 
-14. Course with Most Instructor   : 
+
+**14. Course with Most Instructor   : **
+
 Mencari sebuah Course yang diajarkan oleh Instructor paling banyak
 
-15. Instructor w/ >3 Course       : 
+
+**15. Instructor w/ >3 Course       : **
+
 Mencari Instructor yang mengajar lebih dari 3 Course
 
-16. Keluar                        : 
+
+**16. Keluar                        : **
+
 Exit dari program
