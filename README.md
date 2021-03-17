@@ -29,7 +29,7 @@ Selain itu, terdapat juga file .exe yang bisa langsung di-run yaitu di folder /b
 Program langsung memberikan Menu di mana User bisa memasukkan angka untuk memilih fitur apa yang akan dilakukan oleh user lalu menekan Enter. Setelah selesai, jika ingin mengakhir program, maka User dapat memasukkan angka 16. Penjelasan fitur-fitur dari Menu akan dijelaskan di bawah.
 
 ## Fitur-fitur
-**1. Print Instructor               : ** 
+**1. Print Instructor               : **
 
 Menampilkan ke layar List berisi Instructor yang ada
 
